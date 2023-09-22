@@ -6,4 +6,5 @@ This repository serves as a template for object detection using YOLOv8 and FastA
 ### Sample
 Here's a sample of what you can expect to see with this project:
 <img src=".\images\2.jpg">
+-
 <img src=".\images\1.jpg">
